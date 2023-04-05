@@ -28,9 +28,4 @@ In hard mode, the player is presented with a question in the form of an RGB valu
 This mini-project was built using HTML, CSS, and JavaScript.
 
 ## Screenshots
-
-<!--
-## Acknowledgments
-
-This mini-project was inspired by the color guessing game found on [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/etch-a-sketch-project).
--->
+![Screenshot 1](./screenshots/P4.gif)
