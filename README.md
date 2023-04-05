@@ -9,8 +9,7 @@ This mini-project is a simple color guessing game where the player is presented 
 3. Once you have selected your mode, you will be presented with a color question in the form of an RGB value.
 4. You will also see a set of colored boxes representing the possible answers.
 5. Click on the box that you think represents the correct color.
-6. If you selected the correct color, you will be presented with a new question. If you selected the wrong color, you will be given a message indicating that you need to try again.
-7. Keep playing until you reach the end of the game.
+6. If you selected the correct color, then click on `Play Again?` to start playing again
 
 ## Game Modes
 
